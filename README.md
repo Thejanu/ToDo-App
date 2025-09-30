@@ -72,7 +72,7 @@ npm run preview
 ## 💡 Notes
 - For learning purposes, the app uses array index as React keys.  
   For real apps, use unique IDs.
-- **Currently front-end only** — tasks are not saved anywhere and will disappear on page refresh.
+- **Currently front-end only**, tasks are not saved anywhere and will disappear on page refresh.
 
 ---
 
