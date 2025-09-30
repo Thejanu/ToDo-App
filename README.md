@@ -57,12 +57,12 @@ npm run dev
 ```
 Open the app at the URL shown (http://localhost:5173).
 
-Build for production:
+Build for production (optional, for deployment):
 ```sh
 npm run build
 ```
 
-Preview production build:
+Preview production build (optional):
 ```sh
 npm run preview
 ```
@@ -72,6 +72,7 @@ npm run preview
 ## 💡 Notes
 - For learning purposes, the app uses array index as React keys.  
   For real apps, use unique IDs.
+- **Currently front-end only** — tasks are not saved anywhere and will disappear on page refresh.
 
 ---
 
